@@ -1,0 +1,8 @@
+﻿{
+    "firmware":  {
+                     "version":  "1.0.2",
+                     "url":  "https://github.com/JohannesArnz/Wabeeo-Releases/releases/download/v1.0.2/firmware.bin",
+                     "sha256":  "cd372e3d4856d765f554b8323fe1e882dfe5bbf453b8514c17d37530e36005e6",
+                     "size":  1589152
+                 }
+}
